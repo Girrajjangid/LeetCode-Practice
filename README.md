@@ -15,6 +15,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -73,6 +74,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
 |  |
 | ------- |
