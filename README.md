@@ -59,6 +59,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Graph
