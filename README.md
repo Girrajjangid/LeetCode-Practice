@@ -35,6 +35,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Bit Manipulation
 |  |
 | ------- |
