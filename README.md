@@ -24,6 +24,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2249-count-the-hidden-sequences](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -48,6 +49,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Sliding Window
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -56,6 +58,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
@@ -134,6 +137,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Enumeration
 |  |
 | ------- |
