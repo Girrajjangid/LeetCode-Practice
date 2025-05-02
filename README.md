@@ -22,6 +22,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1656-count-good-triplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2262-solving-questions-with-brainpower) |
@@ -46,6 +47,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
@@ -120,6 +122,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -135,10 +138,12 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Search
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Enumeration
 |  |
@@ -155,5 +160,6 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
