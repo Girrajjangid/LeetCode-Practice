@@ -13,6 +13,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [0038-count-and-say](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Graph
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -163,6 +166,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
 | ------- |
