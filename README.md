@@ -130,6 +130,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
