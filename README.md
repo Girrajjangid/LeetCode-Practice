@@ -19,6 +19,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -81,6 +82,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -160,6 +162,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
