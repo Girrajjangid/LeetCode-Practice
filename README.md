@@ -13,6 +13,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
