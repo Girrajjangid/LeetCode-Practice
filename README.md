@@ -128,11 +128,13 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -230,4 +232,5 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
