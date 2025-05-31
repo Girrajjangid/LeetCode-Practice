@@ -24,6 +24,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [0075-sort-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0945-snakes-and-ladders](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -134,6 +135,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [2793-count-the-number-of-complete-components](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -176,6 +178,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
