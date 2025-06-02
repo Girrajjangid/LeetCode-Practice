@@ -1,13 +1,13 @@
-class Solution:
-    def candy(self, R):
-        n, ans = len(R), [1]*len(R)
-        
-        for i in range(n-1):
-            if R[i] < R[i+1]:
-                ans[i+1] = max(1 + ans[i], ans[i+1])
-                
-        for i in range(n-2, -1, -1):
-            if R[i+1] < R[i]:
-                ans[i] = max(1 + ans[i+1], ans[i])
-        
-        return sum(ans)
+class Solution(object):
+    def candy(self, ratings):
+        n = len(ratings)
+        cnt = 0
+        candies = [1] * n
+        for i in range(1, n):
+            if ratings[i] > ratings[i - 1]:
+                candies[i] = candies[i - 1] + 1
+        for i in range(n - 1, 0, -1):
+            if ratings[i - 1] > ratings[i]:
+                candies[i - 1] = max(candies[i] + 1, candies[i - 1])
+            cnt += candies[i - 1]
+        return cnt + candies[n - 1]
