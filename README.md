@@ -22,6 +22,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0945-snakes-and-ladders](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
@@ -190,6 +191,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
