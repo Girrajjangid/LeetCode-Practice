@@ -113,6 +113,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Graph
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [0075-sort-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1656-count-good-triplets) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Combinatorics
 |  |
 | ------- |
