@@ -106,6 +106,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [0038-count-and-say](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -147,6 +148,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2793-count-the-number-of-complete-components](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
