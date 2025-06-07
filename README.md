@@ -98,6 +98,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -113,6 +114,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
@@ -208,6 +210,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
@@ -237,6 +240,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3647-zero-array-transformation-iii) |
@@ -255,4 +259,5 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
