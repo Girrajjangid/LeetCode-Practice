@@ -137,6 +137,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -263,5 +264,6 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
