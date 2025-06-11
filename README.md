@@ -77,6 +77,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2626-count-the-number-of-good-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Graph
 |  |
 | ------- |
@@ -224,6 +227,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [1656-count-good-triplets](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1656-count-good-triplets) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Combinatorics
 |  |
 | ------- |
