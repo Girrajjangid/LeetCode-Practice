@@ -34,6 +34,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1656-count-good-triplets) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
