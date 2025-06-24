@@ -44,6 +44,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2249-count-the-hidden-sequences](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -211,6 +212,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [0075-sort-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
