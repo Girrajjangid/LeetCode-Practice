@@ -58,6 +58,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -204,6 +205,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -238,6 +240,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
