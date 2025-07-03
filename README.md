@@ -16,6 +16,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3637-count-number-of-balanced-permutations) |
@@ -73,6 +74,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -308,6 +310,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -316,4 +319,8 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
