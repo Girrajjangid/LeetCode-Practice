@@ -39,6 +39,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1656-count-good-triplets](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1656-count-good-triplets) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -185,6 +186,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2262-solving-questions-with-brainpower) |
@@ -207,6 +209,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [0075-sort-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -254,6 +257,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
