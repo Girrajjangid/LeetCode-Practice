@@ -55,6 +55,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -82,6 +83,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Bit Manipulation
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -175,6 +177,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0386-lexicographical-numbers) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -323,6 +326,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Tree
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Stack
