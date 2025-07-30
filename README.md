@@ -83,6 +83,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [3639-zero-array-transformation-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Combinatorics
 |  |
 | ------- |
@@ -374,4 +377,8 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
