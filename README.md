@@ -32,6 +32,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [0135-candy](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1293-three-consecutive-odds) |
@@ -87,6 +88,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -209,6 +211,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
