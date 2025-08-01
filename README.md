@@ -45,6 +45,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [1656-count-good-triplets](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -133,6 +134,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1813-maximum-erasure-value) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -392,4 +394,8 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
