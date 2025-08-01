@@ -29,6 +29,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -209,6 +210,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
