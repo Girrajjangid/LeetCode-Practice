@@ -89,6 +89,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -304,6 +305,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3791-fruits-into-baskets-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -398,6 +400,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
 |  |
 | ------- |
@@ -406,4 +409,8 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
