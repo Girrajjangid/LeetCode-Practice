@@ -27,6 +27,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0118-pascals-triangle) |
@@ -132,6 +133,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0768-partition-labels) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -262,6 +264,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
