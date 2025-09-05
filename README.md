@@ -100,6 +100,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -319,6 +320,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 | ------- |
 | [1656-count-good-triplets](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -405,6 +407,7 @@ Checkout Data [Structure & Algorithm with Python](https://github.com/Girrajjangi
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Girrajjangid/LeetCode-Practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Segment Tree
 |  |
 | ------- |
